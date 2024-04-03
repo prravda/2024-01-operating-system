@@ -1,0 +1,6 @@
+{
+  "name": "operating-system-hands-on-devcontainer",
+  "build": {
+    "dockerfile": "Dockerfile",
+  }
+}
